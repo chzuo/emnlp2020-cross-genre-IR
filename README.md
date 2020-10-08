@@ -7,7 +7,7 @@ This repository contains the accompanying code for the [paper](), where we prese
 
 The dataset for the Cross Genre IR Task along with other supporting files can be accessed [here](https://drive.google.com/drive/folders/1PFfwaBehlQP6T-q6QwJYVtj7RACVzwtL?usp=sharing).
 
-### Instructions on usage to be added soon.
+### Instructions on Usage.
 
 Our approach consists of two steps:  
 1. Selecting the most relevant candidates from a collection of 222k research abstracts, and  
